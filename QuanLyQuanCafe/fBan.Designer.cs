@@ -49,10 +49,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(229, 46);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(358, 55);
+            this.label1.Size = new System.Drawing.Size(280, 42);
             this.label1.TabIndex = 0;
             this.label1.Text = "QUẢN LÝ BÀN";
             this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -60,7 +60,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(420, 994);
+            this.button1.Location = new System.Drawing.Point(649, 12);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(107, 54);
             this.button1.TabIndex = 1;
@@ -70,18 +70,19 @@
             // dgvTables
             // 
             this.dgvTables.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvTables.Location = new System.Drawing.Point(58, 422);
+            this.dgvTables.Location = new System.Drawing.Point(49, 328);
             this.dgvTables.Name = "dgvTables";
-            this.dgvTables.Size = new System.Drawing.Size(740, 417);
+            this.dgvTables.RowHeadersWidth = 51;
+            this.dgvTables.Size = new System.Drawing.Size(632, 240);
             this.dgvTables.TabIndex = 2;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(99, 191);
+            this.label3.Location = new System.Drawing.Point(23, 109);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(79, 24);
+            this.label3.Size = new System.Drawing.Size(98, 29);
             this.label3.TabIndex = 5;
             this.label3.Text = "Mã bàn";
             // 
@@ -89,9 +90,9 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(99, 246);
+            this.label4.Location = new System.Drawing.Point(23, 164);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(88, 24);
+            this.label4.Size = new System.Drawing.Size(109, 29);
             this.label4.TabIndex = 6;
             this.label4.Text = "Tên bàn";
             // 
@@ -99,9 +100,9 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(99, 295);
+            this.label5.Location = new System.Drawing.Point(23, 213);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(145, 24);
+            this.label5.Size = new System.Drawing.Size(181, 29);
             this.label5.TabIndex = 7;
             this.label5.Text = "Trạng thái bàn";
             // 
@@ -109,22 +110,22 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(99, 352);
+            this.label6.Location = new System.Drawing.Point(23, 270);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(175, 24);
+            this.label6.Size = new System.Drawing.Size(216, 29);
             this.label6.TabIndex = 8;
             this.label6.Text = "Đã đặt trước bàn?";
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(297, 195);
+            this.textBox1.Location = new System.Drawing.Point(221, 113);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(501, 20);
             this.textBox1.TabIndex = 9;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(297, 249);
+            this.textBox2.Location = new System.Drawing.Point(221, 167);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(492, 20);
             this.textBox2.TabIndex = 10;
@@ -132,7 +133,7 @@
             // comboBox2
             // 
             this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(297, 300);
+            this.comboBox2.Location = new System.Drawing.Point(221, 218);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(486, 21);
             this.comboBox2.TabIndex = 11;
@@ -140,14 +141,14 @@
             // comboBox3
             // 
             this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(304, 358);
+            this.comboBox3.Location = new System.Drawing.Point(228, 276);
             this.comboBox3.Name = "comboBox3";
             this.comboBox3.Size = new System.Drawing.Size(478, 21);
             this.comboBox3.TabIndex = 12;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(69, 901);
+            this.button2.Location = new System.Drawing.Point(12, 585);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(153, 59);
             this.button2.TabIndex = 13;
@@ -156,7 +157,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(270, 904);
+            this.button3.Location = new System.Drawing.Point(185, 588);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(189, 56);
             this.button3.TabIndex = 14;
@@ -165,7 +166,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(507, 902);
+            this.button4.Location = new System.Drawing.Point(390, 588);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(183, 58);
             this.button4.TabIndex = 15;
@@ -174,7 +175,7 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(715, 901);
+            this.button5.Location = new System.Drawing.Point(590, 587);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(166, 58);
             this.button5.TabIndex = 16;
@@ -186,7 +187,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Turquoise;
-            this.ClientSize = new System.Drawing.Size(954, 1084);
+            this.ClientSize = new System.Drawing.Size(768, 651);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
