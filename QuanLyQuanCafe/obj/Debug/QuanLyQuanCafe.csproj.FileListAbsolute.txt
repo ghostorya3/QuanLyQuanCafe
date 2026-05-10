@@ -1,0 +1,13 @@
+C:\Users\nguyenthang\source\repos\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\nguyenthang\source\repos\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\nguyenthang\source\repos\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\nguyenthang\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\nguyenthang\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBan.resources
+C:\Users\nguyenthang\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\nguyenthang\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\nguyenthang\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\nguyenthang\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\nguyenthang\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\nguyenthang\source\repos\QuanLyQuanCafe\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nguyenthang\source\repos\QuanLyQuanCafe\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nguyenthang\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQu.8A743E1D.Up2Date
