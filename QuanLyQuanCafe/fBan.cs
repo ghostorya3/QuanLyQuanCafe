@@ -382,5 +382,15 @@ namespace QuanLyQuanCafe
         private void label1_Click(object sender, EventArgs e) { }
         private void label2_Click(object sender, EventArgs e) { }
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e) { }
+
+        private void fBan_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dgvTables_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
